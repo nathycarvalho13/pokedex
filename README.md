@@ -10,4 +10,6 @@ CSS: Estilização da interface, incluindo layout e design responsivo.
 API
 Pokémon API: Fornece dados sobre Pokémon, como nomes, números e imagens. (O projeto utiliza uma API pública para obter essas informações.)
 
+![poo](https://github.com/user-attachments/assets/6594dfdb-70c2-4ad6-84e2-67b3ae3787ba)
+
 ![pokedex](https://github.com/user-attachments/assets/6496271a-4a08-4c01-80f7-93fa283353c2)
